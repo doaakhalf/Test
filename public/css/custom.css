@@ -1,0 +1,14 @@
+.logoShop {
+    max-height: 100px;
+    max-width: 100px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.v-align-base {
+    vertical-align: baseline;
+}
+
+.red {
+    color: red;
+}
